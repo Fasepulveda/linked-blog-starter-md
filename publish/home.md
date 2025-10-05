@@ -9,6 +9,8 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 - Full-text search
 
 Here I am adding text, hmm hello world indeed!
+https://github.com/Fasepulveda/linked-blog-starter-md/blob/main/publish/Le%20Passe%20Compose.md
+
 
 ## [[how-linked-blog-starter-works|How it works]]
 ![[how-linked-blog-starter-works]]

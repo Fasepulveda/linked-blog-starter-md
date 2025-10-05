@@ -1,2 +1,2 @@
 
-JUst testing
+Just testing

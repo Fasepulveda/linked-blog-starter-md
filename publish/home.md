@@ -1,32 +1,96 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: Home
+excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
-Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
-- Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
-- URLs are based on folder structure
-- Backlinks can be added outside of the markdown files (using the [PreviewLink](https://github.com/matthewwong525/linked-blog-starter/blob/main/components/misc/preview-link.tsx) component)
-- Full-text search
+# Bienvenue sur mon Blog de Français 🇫🇷
 
-Here I am adding text, hmm hello world indeed!
-https://github.com/Fasepulveda/linked-blog-starter-md/blob/main/publish/Le%20Passe%20Compose.md
-##[[L'imparfait]]
-[[L'imparfait]]
+  
 
+Bienvenue sur ce blog dédié à l'apprentissage du français ! Ici, vous trouverez des ressources, des explications et des fiches de révision pour progresser pas à pas dans la langue française. Que vous soyez débutant ou avancé, vous aurez accès à des guides clairs, des exercices pratiques et des quiz pour renforcer vos connaissances.
+
+  
+
+---
+
+  
+
+## ✨ Introduction
+
+Apprendre une langue, c’est comme construire une maison : il faut de bonnes fondations. Ce blog a pour but de vous accompagner dans votre apprentissage du français avec :
+
+- des guides détaillés sur la grammaire et la conjugaison,
+
+- des fiches pratiques faciles à comprendre,
+
+- des exercices avec corrigés,
+
+- des ressources pour enrichir votre vocabulaire.
+
+  
+
+---
+
+  
+
+## 📚 Ressources disponibles
+
+  
+
+### 1. Temps du passé
+
+- [📄 Le Passé Composé — Fiche & Exercices](##[[Le Passe Compose]]
+
+- [📄 L’Imparfait — Fiche & Exercices](##[[L'imparfait]]
+
+  
+
+### 2. Autres temps verbaux (à venir)
+
+- Le Futur Simple — bientôt disponible !
+
+- Le Conditionnel Présent — bientôt disponible !
+
+- Le Subjonctif Présent — bientôt disponible !
+
+  
+
+### 3. Vocabulaire & Expressions
+
+- Les expressions françaises utiles au quotidien (à venir)
+
+- Thèmes de vocabulaire (famille, école, voyages, etc.)
+
+  
+
+### 4. Ressources interactives
+
+- Quiz de conjugaison (en préparation)
+
+- Exercices d’écoute (à venir)
+
+  
+
+---
+
+  
+
+## 🚀 Objectif du blog
+
+Mon objectif est de vous aider à :
+
+- mieux comprendre la grammaire française,
+
+- améliorer vos compétences à l’écrit et à l’oral,
+
+- apprendre avec des exemples concrets et utiles.
+
+  
+
+N’hésitez pas à explorer les documents et à pratiquer régulièrement !
 ## [[Le Passe Compose]]
-## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
+##[[Le Passe Compose]]
 
-## Getting Started
-### [[home|Demo]]
-Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
 
-### [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Vault]]
-Click the link above to find out how to publish your own notes!
 
-### [[deploy-a-custom-linked-blog-starter|Customize this template]]
-Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/).
-
-![[fn-website-demo.gif]]
 
 

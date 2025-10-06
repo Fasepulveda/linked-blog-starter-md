@@ -2,7 +2,8 @@
 These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
 
 
-My Digital Garden
+#My Digital Garden:
+----------------------------------------------------------------------
 This repository holds all the content for my digital garden, which is built using the linked-blog-starter for Next.js.
 
 What is a Digital Garden?

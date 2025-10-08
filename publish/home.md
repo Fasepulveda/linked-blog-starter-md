@@ -41,8 +41,8 @@ Apprendre une langue, c’est comme construire une maison : il faut de bonnes fo
 - [📄 Le Passé Composé — Fiche & Exercices](##[[Le Passe Compose]]
 
 - [📄 L’Imparfait — Fiche & Exercices](##[[L'imparfait]]
--
-- [📄 Vocabulaire — Mots et definicions](##[[Vocabulaire]]
+
+- [📄 Vocabulaire — Mots et definicions]([[Vocabulaire]]
 
 
 
